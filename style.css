@@ -1,0 +1,12 @@
+h1{
+color:cornflowerblue
+}
+.header{
+    background-color:purple;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    }
+*{
+border:solid;
+}
